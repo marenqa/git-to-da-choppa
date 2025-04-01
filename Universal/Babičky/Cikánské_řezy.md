@@ -27,7 +27,8 @@ Po upečení krájíme napříč.
 
 - 190g moučkového cukru
 - 140g másla
-- 3 vyjíčka (oddělené žloutky i bílky)
+- 180g hladké mouky
+- 3 vajíčka (oddělené žloutky i bílky)
 - 50g čokolády (hořké)
 - 140g mandlí
 
