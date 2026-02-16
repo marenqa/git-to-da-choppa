@@ -1,5 +1,5 @@
 # Koláč 2barevný
-autorka J.T., [zdroj](../M/Photos/004.jpg) 
+autorka J.T., [zdroj](../M/Photos/JT/004.jpg) 
 
 ## Suroviny
 ### 1. těsto

@@ -1,5 +1,5 @@
 # Náplň do řezů
-autor(ka) J.T., [zdroj](../M/Photos/002.jpg) 
+autor(ka) J.T., [zdroj](../M/Photos/JT/002.jpg) 
 
 ## Kaše
 - 150g cukru

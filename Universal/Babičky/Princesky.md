@@ -1,5 +1,5 @@
 # Princesky
-autor(ka) J.T., [zdroj](../M/Photos/001.jpg) 
+autor(ka) J.T., [zdroj](../M/Photos/JT/001.jpg) 
 
 ## Suroviny
 - 5 bílků

@@ -1,5 +1,5 @@
 # Krém do dortu
-autorka Maruš Řánková, [zdroj](../M/Photos/000.jpg) 
+autorka Maruš Řánková, [zdroj](../M/Photos/JT/000.jpg) 
 
 ## Suroviny
 - 170-200g moučkového cukru

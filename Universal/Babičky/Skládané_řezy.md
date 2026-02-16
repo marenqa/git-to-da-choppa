@@ -1,6 +1,6 @@
 # Skládané řezy
 ## 2 srnčí hřbety
-autor(ka) M.K., [zdroj](../M/Photos/000.jpg) 
+autor(ka) M.K., [zdroj](../M/Photos/JT/000.jpg) 
 
 ## Suroviny
 - 180g polohrubé mouky

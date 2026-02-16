@@ -1,5 +1,5 @@
 # Cikánské řezy
-autor(ka) V.B., [zdroj](../M/Photos/000.jpg) 
+autor(ka) V.B., [zdroj](../M/Photos/JT/000.jpg) 
 
 ## Těsto
 - 140g másla

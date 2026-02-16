@@ -1,5 +1,5 @@
 # Čokoládové koule
-autor(ka) J.B., [zdroj](../M/Photos/001.jpg) 
+autor(ka) J.B., [zdroj](../M/Photos/JT/001.jpg) 
 
 ## Suroviny
 - 1 neplněné oplatky

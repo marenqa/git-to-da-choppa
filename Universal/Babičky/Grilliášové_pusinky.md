@@ -1,5 +1,5 @@
 # Grilliášové pusinky
-autor(ka) J.T., [zdroj](../M/Photos/001.jpg) 
+autor(ka) J.T., [zdroj](../M/Photos/JT/001.jpg) 
 
 ## Suroviny
 - 250g ořechů (vlašské) nakrájené na plátky

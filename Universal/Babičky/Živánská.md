@@ -1,5 +1,5 @@
 # Živánská
-autorka J.T., [zdroj](../M/Photos/003.jpg) 
+autorka J.T., [zdroj](../M/Photos/JT/003.jpg) 
 
 ## Suroviny
 U ničeho není uvedeno množství, jednej tedy dle svého uvážení:

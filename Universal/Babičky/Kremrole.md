@@ -1,5 +1,5 @@
 # Krém do dortu
-autorka J. Škránů, [zdroj](../M/Photos/002.jpg) 
+autorka J. Škránů, [zdroj](../M/Photos/JT/002.jpg) 
 
 ## Suroviny
 - 300g hladké mouky
