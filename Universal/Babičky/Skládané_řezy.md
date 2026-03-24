@@ -13,7 +13,7 @@ autor(ka) M.K., [zdroj](../M/Photos/JT/000.jpg)
 
 ## 
 
-TBD?
+TBD? 🧙‍♂️
 
 <details>
 <summary>Přehled surovin</summary>

@@ -10,9 +10,9 @@ autor(ka) J.B., [zdroj](../M/Photos/JT/001.jpg)
 - rum
 - kokos na obalení
 
-## 
+## Co s tím? 
 
-TBD?
+TBD? 🧙‍♂️
 
 <details>
 <summary>Přehled surovin</summary>
