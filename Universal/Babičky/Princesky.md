@@ -32,7 +32,6 @@ Vychladlou smetanu šleháme na krém, kterým plníme oválky.
 - 100g oříšků (lískových)
 - 50g mouky
 - kladívkový papír
-
 - 250ml sladké smetany
 - 200g čokolády na vaření
 
