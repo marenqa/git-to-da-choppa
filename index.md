@@ -14,4 +14,4 @@ This should help you find recipes provided by power-of-friendship 🤟.
 
 ## What's Here
 
-[About Us](/about/)
+[About Us](./about/about.md)
