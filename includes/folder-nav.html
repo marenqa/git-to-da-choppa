@@ -1,0 +1,30 @@
+<nav class="folder-navigation">
+    <h3>📁 Browse by Category</h3>
+    
+    <!-- Group pages by 'group' property -->
+    {% assign groups = site.pages | group_by: 'group' %}
+    
+    {% for group in groups %}
+      {% if group.name != "pages" and group.name != "_config.yml" %}
+        <div class="folder-group">
+          <h4>{{ group.name }}</h4>
+          
+          <!-- Sort pages within each group by 'order' property -->
+          {% assign sorted_pages = group.items | sort: 'order' %}
+          
+          {% for page in sorted_pages %}
+            {% if page.title and page.url != "/" %}
+              <a href="{{ site.baseurl }}{{ page.url }}" 
+                 class="folder-link">
+                {{ page.title }}
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </nav>
+  
+  <!-- Include on every page -->
+  {% include folder-nav.html %}
+  
